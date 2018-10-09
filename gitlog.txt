@@ -1,0 +1,35 @@
+commit 9295188d34c26ce8f0559124ae1268e87750ca95
+Author: Julia Jansson <julialjansson@gmail.com>
+Date:   Tue Oct 9 14:28:57 2018 +0200
+
+    Woops
+
+commit cb56a66c25fed81b485178879ebe5d827bfb6de1
+Author: Julia Jansson <julialjansson@gmail.com>
+Date:   Tue Oct 9 14:22:00 2018 +0200
+
+    OMG
+
+commit 566f5c98f7f9db0878a3186df9b811e69b4438ac
+Author: Julia Jansson <julialjansson@gmail.com>
+Date:   Tue Oct 9 14:18:55 2018 +0200
+
+    whatever
+
+commit 2d53e96053c0cd3c9cd5aec9213bc81b2b9ccae7
+Author: Julia Jansson <julialjansson@gmail.com>
+Date:   Tue Oct 9 14:12:05 2018 +0200
+
+    moons?
+
+commit 5ada912baa3120b3ec212ba674ab2e15d4b8d6f8
+Author: Julia Jansson <julialjansson@gmail.com>
+Date:   Tue Oct 9 14:10:11 2018 +0200
+
+    added base-stuff
+
+commit ead9e00c642bc49620735bb2b1b34e561dfae0a4
+Author: Julia Linnea Jansson <jljansso@wolftech.ad.ncsu.edu>
+Date:   Tue Oct 9 13:54:42 2018 +0200
+
+    created the file mars.txt
